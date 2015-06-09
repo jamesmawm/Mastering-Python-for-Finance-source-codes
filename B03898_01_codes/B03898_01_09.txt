@@ -1,0 +1,12 @@
+README
+======
+This file contains Python codes.
+To be run in IPython Notebook.
+======
+
+from IPython.lib.display import YouTubeVideo
+
+# An introduction to Python by Google.
+YouTubeVideo('tKTZoB2Vjuk')
+
+

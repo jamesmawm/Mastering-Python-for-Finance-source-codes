@@ -1,0 +1,54 @@
+README
+======
+This file contains Excel VBA codes.
+======
+
+
+Function BlackScholesOptionPrice( _
+    ByVal S0 As Integer, _
+    ByVal K As Integer, _
+    ByVal r As Double, _
+    ByVal T As Double, _
+    ByVal sigma As Double, _
+    ByVal dividend As Double, _
+    ByVal isCall As Boolean)
+    
+    Set BlackScholes = CreateObject("BlackScholes.Pricer")
+    If isCall = True Then
+        answer = BlackScholes.call_pricer(S0, K, r, T, sigma, dividend)
+    Else
+        answer = BlackScholes.put_pricer(S0, K, r, T, sigma, dividend)
+    End If
+    BlackScholesOptionPrice = answer
+End Function
+
+Function BinomialTreeCRROptionPrice( _
+    ByVal S0 As Integer, _
+    ByVal K As Integer, _
+    ByVal r As Double, _
+    ByVal T As Double, _
+    ByVal N As Integer, _
+    ByVal sigma As Double, _
+    ByVal isCall As Boolean, _
+    ByVal dividend As Double)
+    Set BinCRRTree = CreateObject("BinomialCRRCOMServer.Pricer")
+    answer = BinCRRTree.pricer(S0, K, r, T, N, sigma, isCall, _
+        dividend, True)
+    BinomialTreeCRROptionPrice = answer
+End Function
+
+Function TrinomialLatticeOptionPrice( _
+    ByVal S0 As Integer, _
+    ByVal K As Integer, _
+    ByVal r As Double, _
+    ByVal T As Double, _
+    ByVal N As Integer, _
+    ByVal sigma As Double, _
+    ByVal isCall As Boolean, _
+    ByVal dividend As Double)
+    Set TrinomialLattice = _
+        CreateObject("TrinomialLatticeCOMServer.Pricer")
+    answer = TrinomialLattice.pricer(S0, K, r, T, N, sigma, _
+        isCall, dividend, True)
+    TrinomialLatticeOptionPrice = answer
+End Function

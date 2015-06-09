@@ -1,0 +1,1 @@
+README======This file contains Markdown code.To be run in IPython Notebook.======Text Examples===This is an example of an *italic* text.This is an example of a **bold*** text.This is an example of a list item:- Item #1- Item #2- Item #3---#heading 1##heading 2###heading 3####heading 4#####heading 5######heading 6

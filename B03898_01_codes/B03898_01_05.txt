@@ -1,0 +1,15 @@
+README
+======
+This file contains Python codes.
+To be run in IPython Notebook.
+======
+
+import matplotlib.pyplot as plt
+import numpy as np
+import math
+
+x = np.linspace(0, 2*math.pi)
+plt.plot(x, np.sin(x), label=r'$\sin(x)$')
+plt.plot(x, np.cos(x), 'ro', label=r'$\cos(x)$')
+plt.title(r'Two plots in a graph')
+plt.legend()

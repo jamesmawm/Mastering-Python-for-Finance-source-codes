@@ -1,0 +1,9 @@
+README
+======
+This file contains Python codes.
+To be run in IPython Notebook.
+======
+
+from IPython.display import Image
+Image(url='http://python.org/images/python-logo.gif')
+

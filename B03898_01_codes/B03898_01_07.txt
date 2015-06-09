@@ -1,0 +1,9 @@
+README
+======
+This file contains Python codes.
+To be run in IPython Notebook.
+======
+
+from IPython.display import Math
+Math(r'N(x) = \frac{1}{\sqrt{2\pi}}\int_{-\infty}^{x} e^{-\frac{z^2}{2}}\, dz')
+

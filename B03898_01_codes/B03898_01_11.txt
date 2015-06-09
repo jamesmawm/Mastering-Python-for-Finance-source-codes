@@ -1,0 +1,1 @@
+README======This file contains Python codes.To be run in IPython Notebook.======import pandas.io.data as webimport datetimestart = datetime.datetime(2014, 1, 1)end = datetime.datetime(2014, 12, 31)df = web.DataReader("AAPL", 'yahoo', start, end)df.head()

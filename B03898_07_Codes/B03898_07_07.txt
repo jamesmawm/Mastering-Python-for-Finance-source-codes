@@ -1,0 +1,8 @@
+README
+======
+This file contains Terminal commands.
+======
+
+hadoop fs -copyFromLocal /home/cloudera/Downloads/ibm.csv ibm.csv 
+
+hadoop fs -ls 

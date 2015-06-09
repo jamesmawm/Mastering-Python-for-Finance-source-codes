@@ -1,0 +1,6 @@
+README
+======
+This file contains Terminal commands.
+======
+
+python /home/cloudera/stock/analysis.py

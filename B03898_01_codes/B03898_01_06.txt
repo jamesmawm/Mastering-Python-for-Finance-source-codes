@@ -1,0 +1,7 @@
+README
+======
+This file contains Markdown codes.
+To be run in IPython Notebook.
+======
+
+$$N(x) = \frac{1}{\sqrt{2\pi}}\int_{-\infty}^{x} e^{-\frac{z^2}{2}}\, dz$$

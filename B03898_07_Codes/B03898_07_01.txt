@@ -1,0 +1,9 @@
+README
+======
+This file contains Terminal commands.
+======
+
+hadoop fs -copyFromLocal /home/cloudera/Downloads/pg4300.txt pg4300.txt 
+
+hadoop fs -ls  
+

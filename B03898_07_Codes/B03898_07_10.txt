@@ -1,0 +1,6 @@
+README
+======
+This file contains Terminal commands.
+======
+
+sudo yum install python-matplotlib
