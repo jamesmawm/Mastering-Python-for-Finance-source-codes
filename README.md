@@ -12,7 +12,6 @@ Get it from:
 
 ![alt text](https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/4516OS_Mastering%20Python%20for%20Finance.jpg "Mastering Python for Finance")
 
-
 Table of Contents
 ===
 1. Python for Financial Applications
