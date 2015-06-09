@@ -2,7 +2,7 @@ This is the accompanying source codes for my book 'Mastering Python for Finance'
 
 ![alt text](https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/4516OS_Mastering%20Python%20for%20Finance.jpg "Mastering Python for Finance")
 
-ISBN-10: 1784394513, ISBN-13: 978-
+ISBN-10: 1784394513, ISBN-13: 978-1784394516
 
 Available on major sales channels including Amazon,
 Safari Online and Barnes & Noble, in paperback, Kindle and ebook.
@@ -11,7 +11,7 @@ Get it from:
 - http://www.amazon.com/Mastering-Python-Finance-James-Weiming/dp/1784394513
 - https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-finance
 
-1784394516
+
 
 Table of Contents
 ===
