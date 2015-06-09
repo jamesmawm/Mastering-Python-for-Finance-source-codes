@@ -232,7 +232,7 @@ Table of Contents
     - Building a trend-following forex trading platform
         - Setting up the main program
         Handling events
-        - - Implementing the trend-following algorithm
+        - Implementing the trend-following algorithm
         - Tracking our positions
     - VaR for risk management
     - Summary
