@@ -15,24 +15,6 @@ Get it from:
 
 Table of Contents
 ===
-- Credits
-- About the Author
-- About the Reviewers
-- www.PacktPub.com
-    - Support files, eBooks, discount offers, and more
-        - Why subscribe?
-        - Free access for Packt account holders
-- Preface
-    - What this book covers
-    - What you need for this book
-    - Who this book is for
-    - Conventions
-    - Reader feedback
-    - Customer support
-        - Downloading the example code
-        - Errata
-        - Piracy
-        - Questions
 1. Python for Financial Applications
     - Is Python for me?
         - Free and open source
