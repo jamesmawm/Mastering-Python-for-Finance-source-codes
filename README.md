@@ -1,6 +1,7 @@
 This is the accompanying source codes for my book 'Mastering Python for Finance'.
 
 ![alt text](https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/4516OS_Mastering%20Python%20for%20Finance.jpg "Mastering Python for Finance")
+
 ISBN-10: 1784394513, ISBN-13: 978-
 
 Available on major sales channels including Amazon,
