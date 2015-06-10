@@ -11,6 +11,11 @@ Get it from:
 - http://www.amazon.com/Mastering-Python-Finance-James-Weiming/dp/1784394513
 - https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-finance
 
+Check out these awesome books too:
+- Python for Finance by Dr. Yves Hilpisch:
+http://shop.oreilly.com/product/0636920032441.do
+- Python for Quants. Volume I. by Pawel Lachowicz:
+http://www.quantatrisk.com/python-for-quants-volume-i/
 
 
 Table of Contents
