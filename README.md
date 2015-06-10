@@ -14,7 +14,7 @@ Get it from:
 Check out these awesome books too:
 - Python for Finance by Dr. Yves Hilpisch:
 http://shop.oreilly.com/product/0636920032441.do
-- Python for Quants. Volume I. by Pawel Lachowicz:
+- Python for Quants. Volume I. by Dr. Pawel Lachowicz:
 http://www.quantatrisk.com/python-for-quants-volume-i/
 
 
