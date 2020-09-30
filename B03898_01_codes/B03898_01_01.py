@@ -10,7 +10,7 @@ class Greeting(object):
         self.my_greeting = my_greeting
 
     def say_hello(self, name):
-        print "%s %s" % (self.my_greeting, name)
+        print("%s %s" % (self.my_greeting, name))
 
 greeting = Greeting("Hello")
 greeting.say_hello("World")
