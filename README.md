@@ -194,7 +194,7 @@ Table of Contents
         - Modifying the map program
         - Testing our map program with IBM stock prices
         - Running MapReduce to count intraday price changes
-        - Performing analysis on our MapReduce results
+        - Performing analysis of our MapReduce results
     - Introducing NoSQL
         - Getting MongoDB
         - Creating the data directory and running MongoDB
@@ -263,7 +263,7 @@ Table of Contents
         - Be prepared to face model risk
         - Performance of a backtest with in-sample data
         - Addressing common pitfalls in backtesting
-        - Have a common sense idea of your model
+        - Have a common-sense idea of your model
         - Understanding the context for the model
         - Make sure you have the right data
         - Data mine your results
